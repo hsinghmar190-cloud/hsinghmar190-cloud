@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Himanshu Verma! 👋
 
-<!--
-**hsinghmar190-cloud/hsinghmar190-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 First-year **B.Sc. Student** at Maharaja Ganga Singh University (MGSU).
+- 🚀 Aspiring **Software Engineer** from Suratgarh, Rajasthan.
+- 🐍 Passionate about **Python Programming** and **Full-stack Web Development**.
+- 🤖 Currently building **Jarvis**, an AI assistant using Gemini API.
+- 🏆 Ranked **843/16,000** in a Global Cloud Developer Challenge.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsinghmar190-cloud&show_icons=true&theme=radical)
+
+### 🤝 Connect with me
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/its_himanshu_singhmar/)
