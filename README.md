@@ -5,7 +5,7 @@
 - 🚀 Aspiring **Software Engineer** from Suratgarh, Rajasthan.
 - 🐍 Passionate about **Python Programming** and **Full-stack Web Development**.
 - 🤖 Currently building **Jarvis**, an AI assistant using Gemini API.
-- 🏆 Ranked **843/16,000** in a Global Cloud Developer Challenge.
+- 🏆 Ranked **843/16,000** in a India Cloud Developer Challenge.
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
